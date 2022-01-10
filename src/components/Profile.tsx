@@ -8,7 +8,7 @@ export function Profile() {
 
     return (
         <div className= {styles.profileContainer}>
-            <img src="https://instagram.fbps1-1.fna.fbcdn.net/v/t51.2885-19/s150x150/125462352_285082236157798_7406462623746786745_n.jpg?_nc_ht=instagram.fbps1-1.fna.fbcdn.net&_nc_ohc=UKFseQJxli4AX8PI6uy&tp=1&oh=21f170d933cf6b9141bdcb7260d417ff&oe=6062EC6F" alt="Victor Crisostomo"/>
+            <img src="https://instagram.funa1-1.fna.fbcdn.net/v/t51.2885-19/s150x150/271200141_450402556555413_6801541137254318147_n.jpg?_nc_ht=instagram.funa1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=3WxV-x6NwB4AX_734QN&edm=ALbqBD0BAAAA&ccb=7-4&oh=00_AT_3YwA9-GkamiqBbXqMR2fsy9L6HaLoOFX3ZjjcaAMDFQ&oe=61E2B5F0&_nc_sid=9a90d6" alt="Gabi Lana"/>
             <div>
                 <strong>Gabi Alana</strong>
                 <p>
